@@ -1,4 +1,4 @@
-This is made for [this 3.5"toucschreen from AliExpress](https://nl.aliexpress.com/item/1005002346325383.html) on a Raspberry Pi running Trixie 64-bit Lite.
+This is made for [this 3.5" touchscreen from AliExpress](https://nl.aliexpress.com/item/1005002346325383.html) on a Raspberry Pi running Trixie 64-bit Lite.
 
 No need to install any additional drivers!
 
