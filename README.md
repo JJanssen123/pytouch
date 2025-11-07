@@ -8,7 +8,7 @@ Install custom overlay from this repo:
 Edit config.txt:
 - dtoverlay=vc4-fkms-v3d
 - dtparam=spi=on
-- dtoverlay=spi-ili9486,speed=32000000
+- dtoverlay=spi-ili9486,speed=64000000
 - dtoverlay=ads7846,penirq=17,speed=3000000,penirq_pull=down,keep_vref_on=1,ti,x-plate-ohms=60
 
 Install:
